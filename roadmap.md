@@ -1,10 +1,14 @@
 # Roadmap
 
-## Now
+## Done
 - [x] Core pipeline: story → style → characters → scenes → PDF
 - [x] Scene review with modify vs redo
 - [x] Concurrent generation throughout
 - [x] PDF assembler (images only)
+- [x] Two-repo architecture: tool repo (GitHub) + books repo (local ~/Documents/littledudebooks/)
+- [x] Book-agnostic agents: .books-path + .active-book discovery
+- [x] Generalized assemble_pdf.py (accepts book path as argument)
+- [x] Clean git history: zero personal data in tool repo
 
 ## Next — Polish
 - [ ] Better promptui forms: rows of images with approve/modify/redo per scene instead of generic text fields
@@ -32,6 +36,6 @@
 - [ ] No CLI interaction needed — everything from the browser
 
 ## Open source prep
-- [ ] Clean up repo for public sharing
+- [x] Clean up repo for public sharing
 - [ ] Write setup instructions
 - [ ] Document the agent pipeline for contributors
