@@ -1,0 +1,679 @@
+{
+  "type": "choose",
+  "title": "Pick a visual style for the book",
+  "filter": true,
+  "options": [
+    {
+      "label": "2000 Ad",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/2000-ad.png"
+    },
+    {
+      "label": "Aardman",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/aardman.png"
+    },
+    {
+      "label": "Adventure Time",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/adventure-time.png"
+    },
+    {
+      "label": "Alphonse Mucha",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/alphonse-mucha.png"
+    },
+    {
+      "label": "Animal Crossing",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/animal-crossing.png"
+    },
+    {
+      "label": "Anime General",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/anime-general.png"
+    },
+    {
+      "label": "Arcane",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/arcane.png"
+    },
+    {
+      "label": "Archer Sitcom",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/archer-sitcom.png"
+    },
+    {
+      "label": "Archie Comics",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/archie-comics.png"
+    },
+    {
+      "label": "Art Deco",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/art-deco.png"
+    },
+    {
+      "label": "Art Nouveau",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/art-nouveau.png"
+    },
+    {
+      "label": "Arthur",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/arthur.png"
+    },
+    {
+      "label": "Babar",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/babar.png"
+    },
+    {
+      "label": "Bande Dessinee Realiste",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/bande-dessinee-realiste.png"
+    },
+    {
+      "label": "Baroque",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/baroque.png"
+    },
+    {
+      "label": "Beatrix Potter",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/beatrix-potter.png"
+    },
+    {
+      "label": "Berenstain Bears",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/berenstain-bears.png"
+    },
+    {
+      "label": "Bill Sienkiewicz",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/bill-sienkiewicz.png"
+    },
+    {
+      "label": "Blue Sky Studios",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/blue-sky-studios.png"
+    },
+    {
+      "label": "Bluey",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/bluey.png"
+    },
+    {
+      "label": "Bones Studio",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/bones-studio.png"
+    },
+    {
+      "label": "Brambly Hedge",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/brambly-hedge.png"
+    },
+    {
+      "label": "Bronze Age Comics",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/bronze-age-comics.png"
+    },
+    {
+      "label": "Captain Underpants",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/captain-underpants.png"
+    },
+    {
+      "label": "Cartoon Network Classic",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/cartoon-network-classic.png"
+    },
+    {
+      "label": "Cartoon Saloon",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/cartoon-saloon.png"
+    },
+    {
+      "label": "Charlie And Lola",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/charlie-and-lola.png"
+    },
+    {
+      "label": "Chibi Super Deformed",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/chibi--super-deformed.png"
+    },
+    {
+      "label": "Childrens Book Watercolor",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/childrens-book-watercolor.png"
+    },
+    {
+      "label": "Chinese Ink Wash",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/chinese-ink-wash.png"
+    },
+    {
+      "label": "Chris Van Allsburg",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/chris-van-allsburg.png"
+    },
+    {
+      "label": "Clifford The Big Red Dog",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/clifford-the-big-red-dog.png"
+    },
+    {
+      "label": "Concept Art Keyframe",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/concept-art-keyframe.png"
+    },
+    {
+      "label": "Corduroy",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/corduroy.png"
+    },
+    {
+      "label": "Cubism",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/cubism.png"
+    },
+    {
+      "label": "Cuphead",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/cuphead.png"
+    },
+    {
+      "label": "Curious George",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/curious-george.png"
+    },
+    {
+      "label": "Diary Of A Wimpy Kid",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/diary-of-a-wimpy-kid.png"
+    },
+    {
+      "label": "Disney Classic Animation",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/disney-classic-animation.png"
+    },
+    {
+      "label": "Disney Modern 3d",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/disney-modern-3d.png"
+    },
+    {
+      "label": "Disney Renaissance",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/disney-renaissance.png"
+    },
+    {
+      "label": "Don Bluth Animation",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/don-bluth-animation.png"
+    },
+    {
+      "label": "Dr Seuss",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/dr-seuss.png"
+    },
+    {
+      "label": "Dreamworks Animation",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/dreamworks-animation.png"
+    },
+    {
+      "label": "Ec Comics",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/ec-comics.png"
+    },
+    {
+      "label": "Editorial Cartoon",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/editorial-cartoon.png"
+    },
+    {
+      "label": "Elmer Patchwork",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/elmer-patchwork.png"
+    },
+    {
+      "label": "Eric Carle Collage",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/eric-carle-collage.png"
+    },
+    {
+      "label": "Fauvism",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/fauvism.png"
+    },
+    {
+      "label": "Filmation",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/filmation.png"
+    },
+    {
+      "label": "Flat Vector Illustration",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/flat-vector-illustration.png"
+    },
+    {
+      "label": "Fleischer Studios",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/fleischer-studios.png"
+    },
+    {
+      "label": "Folk Art Naive Art",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/folk-art-naive-art.png"
+    },
+    {
+      "label": "Franco Belgian Caricature",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/franco-belgian-caricature.png"
+    },
+    {
+      "label": "Frank Miller",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/frank-miller.png"
+    },
+    {
+      "label": "Franklin The Turtle",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/franklin-the-turtle.png"
+    },
+    {
+      "label": "Frog And Toad",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/frog-and-toad.png"
+    },
+    {
+      "label": "Golden Age American Comics",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/golden-age-american-comics.png"
+    },
+    {
+      "label": "Goodnight Moon",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/goodnight-moon.png"
+    },
+    {
+      "label": "Gouache Illustration",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/gouache-illustration.png"
+    },
+    {
+      "label": "Gravity Falls",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/gravity-falls.png"
+    },
+    {
+      "label": "Hanna Barbera",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/hanna-barbera.png"
+    },
+    {
+      "label": "Harold And The Purple Crayon",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/harold-and-the-purple-crayon.png"
+    },
+    {
+      "label": "Heavy Metal",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/heavy-metal.png"
+    },
+    {
+      "label": "Hey Duggee",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/hey-duggee.png"
+    },
+    {
+      "label": "Horror Manga",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/horror-manga.png"
+    },
+    {
+      "label": "Howard Pyle",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/howard-pyle.png"
+    },
+    {
+      "label": "Illumination",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/illumination.png"
+    },
+    {
+      "label": "Impressionism",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/impressionism.png"
+    },
+    {
+      "label": "Indie Game Art",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/indie-game-art.png"
+    },
+    {
+      "label": "Indie Graphic Novel",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/indie-graphic-novel.png"
+    },
+    {
+      "label": "Isekai Manga",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/isekai-manga.png"
+    },
+    {
+      "label": "Jack Kirby",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/jack-kirby.png"
+    },
+    {
+      "label": "Jan Brett",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/jan-brett.png"
+    },
+    {
+      "label": "Japanese Ehon",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/japanese-ehon.png"
+    },
+    {
+      "label": "Jeff Smith",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/jeff-smith.png"
+    },
+    {
+      "label": "Josei Manga",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/josei-manga.png"
+    },
+    {
+      "label": "Kawaii",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/kawaii.png"
+    },
+    {
+      "label": "Klasky Csupo",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/klasky-csupo.png"
+    },
+    {
+      "label": "Klaus",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/klaus.png"
+    },
+    {
+      "label": "Kodomomuke Manga",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/kodomomuke-manga.png"
+    },
+    {
+      "label": "Kyoto Animation",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/kyoto-animation.png"
+    },
+    {
+      "label": "Laika Studios",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/laika-studios.png"
+    },
+    {
+      "label": "Leo Lionni",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/leo-lionni.png"
+    },
+    {
+      "label": "Ligne Claire",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/ligne-claire.png"
+    },
+    {
+      "label": "Line Friends",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/line-friends.png"
+    },
+    {
+      "label": "Lino Cut Woodcut",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/lino-cut-woodcut.png"
+    },
+    {
+      "label": "Little Critter",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/little-critter.png"
+    },
+    {
+      "label": "Little Golden Books",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/little-golden-books.png"
+    },
+    {
+      "label": "Looney Tunes",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/looney-tunes.png"
+    },
+    {
+      "label": "Lucky Luke",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/lucky-luke.png"
+    },
+    {
+      "label": "Mad Magazine",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/mad-magazine.png"
+    },
+    {
+      "label": "Madeline",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/madeline.png"
+    },
+    {
+      "label": "Madhouse Studio",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/madhouse-studio.png"
+    },
+    {
+      "label": "Maisy Mouse",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/maisy-mouse.png"
+    },
+    {
+      "label": "Make Way For Ducklings",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/make-way-for-ducklings.png"
+    },
+    {
+      "label": "Manhua",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/manhua.png"
+    },
+    {
+      "label": "Manhwa",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/manhwa.png"
+    },
+    {
+      "label": "Mappa Studio",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/mappa-studio.png"
+    },
+    {
+      "label": "Maxfield Parrish",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/maxfield-parrish.png"
+    },
+    {
+      "label": "Mecha Manga",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/mecha-manga.png"
+    },
+    {
+      "label": "Mexican Muralism",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/mexican-muralism.png"
+    },
+    {
+      "label": "Mgm Animation",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/mgm-animation.png"
+    },
+    {
+      "label": "Miffy Dick Bruna Style",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/miffy--dick-bruna-style.png"
+    },
+    {
+      "label": "Mike Mignola",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/mike-mignola.png"
+    },
+    {
+      "label": "Mo Willems Unlimited Squiggles",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/mo-willems-unlimited-squiggles.png"
+    },
+    {
+      "label": "Mo Willems",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/mo-willems.png"
+    },
+    {
+      "label": "Modern Age Image Comics",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/modern-age--image-comics.png"
+    },
+    {
+      "label": "Modern Cartoon Caricature",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/modern-cartoon-caricature.png"
+    },
+    {
+      "label": "Moebius",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/moebius.png"
+    },
+    {
+      "label": "Nc Wyeth",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/nc-wyeth.png"
+    },
+    {
+      "label": "Newspaper Comic Strip",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/newspaper-comic-strip.png"
+    },
+    {
+      "label": "Nickelodeon 90s",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/nickelodeon-90s.png"
+    },
+    {
+      "label": "Nordic Childrens Illustration",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/nordic-childrens-illustration.png"
+    },
+    {
+      "label": "Norman Rockwell",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/norman-rockwell.png"
+    },
+    {
+      "label": "Old Bear",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/old-bear.png"
+    },
+    {
+      "label": "Olivia",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/olivia.png"
+    },
+    {
+      "label": "Osamu Tezuka",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/osamu-tezuka.png"
+    },
+    {
+      "label": "Paddington Bear",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/paddington-bear.png"
+    },
+    {
+      "label": "Pastel Drawing",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/pastel-drawing.png"
+    },
+    {
+      "label": "Peppa Pig",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/peppa-pig.png"
+    },
+    {
+      "label": "Pippi Longstocking",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/pippi-longstocking.png"
+    },
+    {
+      "label": "Pixar 3d",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/pixar-3d.png"
+    },
+    {
+      "label": "Pixel Art",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/pixel-art.png"
+    },
+    {
+      "label": "Pointillism",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/pointillism.png"
+    },
+    {
+      "label": "Pokemon",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/pokemon.png"
+    },
+    {
+      "label": "Pop Art",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/pop-art.png"
+    },
+    {
+      "label": "Post Impressionism",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/post-impressionism.png"
+    },
+    {
+      "label": "Pre Raphaelite",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/pre-raphaelite.png"
+    },
+    {
+      "label": "Production Ig",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/production-ig.png"
+    },
+    {
+      "label": "Quentin Blake",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/quentin-blake.png"
+    },
+    {
+      "label": "Rainbow Fish",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/rainbow-fish.png"
+    },
+    {
+      "label": "Rankin Bass Stop Motion",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/rankin-bass-stop-motion.png"
+    },
+    {
+      "label": "Richard Scarry",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/richard-scarry.png"
+    },
+    {
+      "label": "Rick And Morty",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/rick-and-morty.png"
+    },
+    {
+      "label": "Risograph Print",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/risograph-print.png"
+    },
+    {
+      "label": "Sandra Boynton",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/sandra-boynton.png"
+    },
+    {
+      "label": "Seinen Manga",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/seinen-manga.png"
+    },
+    {
+      "label": "Shojo Manga",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/shojo-manga.png"
+    },
+    {
+      "label": "Shonen Manga",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/shonen-manga.png"
+    },
+    {
+      "label": "Silver Age Superhero",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/silver-age-superhero.png"
+    },
+    {
+      "label": "Smurfs",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/smurfs.png"
+    },
+    {
+      "label": "South Park",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/south-park.png"
+    },
+    {
+      "label": "Soviet Childrens Illustration",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/soviet-childrens-illustration.png"
+    },
+    {
+      "label": "Spider Verse",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/spider-verse.png"
+    },
+    {
+      "label": "Spirou",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/spirou.png"
+    },
+    {
+      "label": "Spongebob",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/spongebob.png"
+    },
+    {
+      "label": "Spot The Dog",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/spot-the-dog.png"
+    },
+    {
+      "label": "Stained Glass",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/stained-glass.png"
+    },
+    {
+      "label": "Steven Universe",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/steven-universe.png"
+    },
+    {
+      "label": "Strega Nona",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/strega-nona.png"
+    },
+    {
+      "label": "Studio Ghibli",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/studio-ghibli.png"
+    },
+    {
+      "label": "Studio Trigger",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/studio-trigger.png"
+    },
+    {
+      "label": "Superhero House",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/superhero-house.png"
+    },
+    {
+      "label": "Surrealism",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/surrealism.png"
+    },
+    {
+      "label": "The Gruffalo",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/the-gruffalo.png"
+    },
+    {
+      "label": "The Snowman",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/the-snowman.png"
+    },
+    {
+      "label": "The Tiger Who Came To Tea",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/the-tiger-who-came-to-tea.png"
+    },
+    {
+      "label": "Toei Animation",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/toei-animation.png"
+    },
+    {
+      "label": "Tove Jansson",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/tove-jansson.png"
+    },
+    {
+      "label": "Ukiyo E",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/ukiyo-e.png"
+    },
+    {
+      "label": "Underground Comix",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/underground-comix.png"
+    },
+    {
+      "label": "Upa Limited Animation",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/upa-limited-animation.png"
+    },
+    {
+      "label": "Vintage French Illustration",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/vintage-french-illustration.png"
+    },
+    {
+      "label": "Webcomic",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/webcomic.png"
+    },
+    {
+      "label": "Webtoon",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/webtoon.png"
+    },
+    {
+      "label": "Will Eisner",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/will-eisner.png"
+    },
+    {
+      "label": "Wimmelbook",
+      "image": "/Users/imac1/projects/dangerouslyskippermissions/dang-projects/littledudebook/style-gallery/pictures/wimmelbook.png"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@dangskipperms/promptui": "file:../../tools/promptui"
+  }
+}
